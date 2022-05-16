@@ -6,8 +6,6 @@ The CodeGame project is an ecosystem of fun and interesting games that can be pl
 Most games are multiplayer-enabled and don't require much programming knowledge or skill, so everyone can play.
 Of course, this doesn't prevent advanced players from creating insane AIs that play flawlessly. That would be awesome!
 
-Here's a link to the [getting started guide](./getting-started.md).
-
 ## How does it work?
 
 Game servers host games with prebuilt game logic. They can be accessed via a few HTTP endpoints and a WebSocket endpoint.
@@ -18,3 +16,10 @@ They receive events from the server informing them of things that happened and c
 As with server libraries, we provide client libraries for as many programming languages as possible.
 
 Please view the [docs](https://github.com/code-game-project/docs) for more detailed information on how CodeGame works.
+
+## Quick Links
+
+- [Getting Started](./getting-started.md)
+- [Documentation](https://github.com/code-game-project/docs/blob/main/README.md)
+  - [Protocol Specification](https://github.com/code-game-project/docs/blob/main/docs/protocol-specification.md)
+  - [Events Language (CGE) Specification](https://github.com/code-game-project/docs/blob/main/docs/code-game-events-language-specification.md)
