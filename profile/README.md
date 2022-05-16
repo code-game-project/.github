@@ -21,5 +21,5 @@ Please view the [docs](https://github.com/code-game-project/docs) for more detai
 
 - [Getting Started](./getting-started.md)
 - [Documentation](https://github.com/code-game-project/docs/blob/main/README.md)
-  - [Protocol Specification](https://github.com/code-game-project/docs/blob/main/docs/protocol-specification.md)
-  - [Events Language (CGE) Specification](https://github.com/code-game-project/docs/blob/main/docs/code-game-events-language-specification.md)
+  - [Protocol Specification](https://github.com/code-game-project/docs/blob/main/protocol-specification.md)
+  - [Events Language (CGE) Specification](https://github.com/code-game-project/docs/blob/main/code-game-events-language-specification.md)
