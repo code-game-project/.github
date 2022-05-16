@@ -23,3 +23,4 @@ Please view the [docs](https://github.com/code-game-project/docs) for more detai
 - [Documentation](https://github.com/code-game-project/docs/blob/main/README.md)
   - [Protocol Specification](https://github.com/code-game-project/docs/blob/main/protocol-specification.md)
   - [Events Language (CGE) Specification](https://github.com/code-game-project/docs/blob/main/code-game-events-language-specification.md)
+  - [Game Server Specification](https://github.com/code-game-project/docs/blob/main/game-server-specification.md)
