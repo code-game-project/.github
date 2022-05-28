@@ -15,13 +15,13 @@ Clients connect to a server's WebSocket endpoint for a bidirectional TCP connect
 They receive events from the server informing them of things that happened and can send events to the server to make things happen in-game.
 As with server libraries, we provide client libraries for as many programming languages as possible.
 
-Please view the [docs](https://github.com/code-game-project/docs) for more detailed information on how CodeGame works.
+Please view the [docs](https://docs.code-game.org) for more detailed information on how CodeGame works.
 
 ## Quick Links
 
-- [Getting Started](./getting-started.md)
-- [Documentation](https://github.com/code-game-project/docs/blob/main/README.md)
-  - [Protocol Specification](https://github.com/code-game-project/docs/blob/main/protocol-specification.md)
-  - [Events Language (CGE) Specification](https://github.com/code-game-project/docs/blob/main/code-game-events-language-specification.md)
-  - [Game Server Specification](https://github.com/code-game-project/docs/blob/main/game-server-specification.md)
-  - [Client Library Specification](https://github.com/code-game-project/docs/blob/main/client-library-specfication.md)
+- [Getting Started](https://docs.code-game.org/guides/getting-started)
+- [Documentation](https://docs.code-game.org)
+  - [Protocol Specification](https://docs.code-game.org/specifications/protocol)
+  - [Events Language (CGE) Specification](https://docs.code-game.org/specifications/cge)
+  - [Game Server Specification](https://docs.code-game.org/specifications/game-server)
+  - [Client Library Specification](https://docs.code-game.org/specifications/client-library)
