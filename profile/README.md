@@ -17,6 +17,10 @@ As with server libraries, we provide client libraries for as many programming la
 
 Please view the [docs](https://docs.code-game.org) for more detailed information on how CodeGame works.
 
+## Games
+
+You can find a list of official games at [https://games.code-game.org](https://games.code-game.org).
+
 ## Quick Links
 
 - [Getting Started](https://docs.code-game.org/guides/getting-started)
