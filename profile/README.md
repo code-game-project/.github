@@ -20,12 +20,3 @@ Please view the [docs](https://docs.code-game.org) for more detailed information
 ## Games
 
 You can find a list of official games at [https://games.code-game.org](https://games.code-game.org).
-
-## Quick Links
-
-- [Getting Started](https://docs.code-game.org/guides/getting-started)
-- [Documentation](https://docs.code-game.org)
-  - [Protocol Specification](https://docs.code-game.org/specifications/protocol)
-  - [Events Language (CGE) Specification](https://docs.code-game.org/specifications/cge)
-  - [Game Server Specification](https://docs.code-game.org/specifications/game-server)
-  - [Client Library Specification](https://docs.code-game.org/specifications/client-library)
