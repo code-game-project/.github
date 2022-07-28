@@ -12,7 +12,7 @@ Game servers host games with prebuilt game logic. They can be accessed via a few
 We provide server libraries for a variety of programming languages to make it easy for anyone to create a CodeGame compliant game.
 
 Clients connect to a server's WebSocket endpoint for a bidirectional TCP connection to the server.
-They receive events from the server informing them of things that happened and can send events to the server to make things happen in-game.
+They receive events from the server informing them of things that happened and can send commands to the server to make things happen in-game.
 As with server libraries, we provide client libraries for as many programming languages as possible.
 
 Please view the [docs](https://docs.code-game.org) for more detailed information on how CodeGame works.
