@@ -15,7 +15,7 @@ Clients connect to a server's WebSocket endpoint for a bidirectional TCP connect
 They receive events from the server informing them of things that happened and can send commands to the server to make things happen in-game.
 As with server libraries, we provide client libraries for as many programming languages as possible.
 
-Please view the [docs](https://docs.code-game.org) for more detailed information on how CodeGame works.
+Please view the [docs](https://code-game.org) for more detailed information on how CodeGame works.
 
 ## Games
 
