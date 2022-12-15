@@ -37,7 +37,7 @@ Depending on the number the server responds with either a `too_low`, a `too_high
 
 ### Tooling
 
-The [CodeGame CLI](https://github.com/code-game-project/codegame-cli) helps you to painlessly develop CodeGame applications. It makes setup very easy and provides a universal API to launch and build your projects.
+The [CodeGame CLI](https://github.com/code-game-project/codegame-cli) helps you to painlessly develop CodeGame applications. It makes setup very easy and provides a universal interface to launch and build your projects.
 
 ## How to get started?
 
@@ -49,4 +49,4 @@ To gain a deeper understanding of how CodeGame works internally we recommend rea
 
 ### List of games
 
-To view a list of games created by us visit [games.code-game.org](https://games.code-game.org). Of course you can create your own games or used ones created by other people.
+To view a list of games created by us visit [games.code-game.org](https://games.code-game.org). Of course you can create your own games or use ones created by other people.
